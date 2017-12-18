@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 892709807
+CRC: 2768365091
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be9a4c9e89249ca5aaa4f28daec1d4b5
+    Hash: b9f5db525b42a0918c30e3d8c17f4760
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e6c2ab706219054d914b548c30316f7c
+    Hash: 2c45faa0ee3b6c951defde4ad2c5536f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,13 +17,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
@@ -32,4 +28,5 @@ ClassTypes:
 Assets:
 - Assets/Prefabs/Wall.prefab
 - Assets/Prefabs/CapsuleWall.prefab
-Dependencies: []
+Dependencies:
+- D:/Program Files/unityproject/AssetBundleProject/AssetBundles/share.unity3d

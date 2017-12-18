@@ -1,7 +1,11 @@
 ManifestFileVersion: 0
-CRC: 3700455952
+CRC: 141177772
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: scene/wall.unity3d
+      Dependencies:
+        Dependency_0: share.unity3d
+    Info_1:
+      Name: share.unity3d
       Dependencies: {}
